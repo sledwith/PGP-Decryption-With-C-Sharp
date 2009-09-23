@@ -1,0 +1,6 @@
+C:\Data\SPLCrypto\SPLCrypto\bin\Release\SPLCrypto.dll
+C:\Data\SPLCrypto\SPLCrypto\bin\Release\SPLCrypto.pdb
+C:\Data\SPLCrypto\SPLCrypto\bin\Release\BouncyCastle.Crypto.dll
+C:\Data\SPLCrypto\SPLCrypto\obj\Release\ResolveAssemblyReference.cache
+C:\Data\SPLCrypto\SPLCrypto\obj\Release\SPLCrypto.dll
+C:\Data\SPLCrypto\SPLCrypto\obj\Release\SPLCrypto.pdb
